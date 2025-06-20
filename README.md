@@ -55,3 +55,17 @@ npm start
 -Support private chats or rooms
 -Improve mobile responsiveness
 -Add emojis and file sharing
+
+##Screenshots of my output:-
+
+![Image](https://github.com/user-attachments/assets/a787ba81-7348-4e74-a632-65ddcb5b3c94)
+
+![Image](https://github.com/user-attachments/assets/e153d283-987b-4ab3-b792-a9ab6a76e101)
+
+![Image](https://github.com/user-attachments/assets/a81435b6-0311-461a-b662-a26919704f55)
+
+![Image](https://github.com/user-attachments/assets/d88e7d5c-4798-4a56-9cfe-d3365615fe8b)
+
+![Image](https://github.com/user-attachments/assets/30f473cd-bc3d-4dc4-ab4e-972e1995d20d)
+
+![Image](https://github.com/user-attachments/assets/cde28108-be74-4d30-9a34-8d3155416df8)
